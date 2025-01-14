@@ -1,4 +1,3 @@
-```markdown
 # Python Keylogger
 
 This project is a simple keylogger implemented in Python. It captures user keystrokes and stores them in an encrypted log file. The logging process can be terminated by pressing the `Esc` key.
@@ -77,7 +76,7 @@ This keylogger is developed for educational purposes only. Unauthorized use of k
 - [cryptography library](https://cryptography.io/)
 
 ```
-
+```
 **Important Notes:**
 
 - Replace `https://github.com/yourusername/python-keylogger.git` with the actual URL of your GitHub repository.
@@ -94,4 +93,3 @@ This keylogger is developed for educational purposes only. Unauthorized use of k
 
   - [Creating a Keylogger in Python - ByteScrum](https://blog.bytescrum.com/creating-a-keylogger-in-python)
 
-These resources provide additional examples and explanations that might enhance your understanding and implementation of keyloggers in Python. 
