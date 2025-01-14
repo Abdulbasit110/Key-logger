@@ -75,8 +75,6 @@ This keylogger is developed for educational purposes only. Unauthorized use of k
 - [pynput library](https://pypi.org/project/pynput/)
 - [cryptography library](https://cryptography.io/)
 
-```
-```
 **Important Notes:**
 
 - Replace `https://github.com/yourusername/python-keylogger.git` with the actual URL of your GitHub repository.
