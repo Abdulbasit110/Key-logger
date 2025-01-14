@@ -4,7 +4,8 @@ This project is a simple keylogger implemented in Python. It captures user keyst
 
 ## Key Logger Flow
 
-![image](https://github.com/user-attachments/assets/e48945c5-6605-44dd-baaf-6275e7df7fd7)
+![image](https://github.com/user-attachments/assets/91078e4e-413a-4933-8e3c-2297f43fee92)
+
 
 ## Features
 
