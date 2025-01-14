@@ -92,4 +92,4 @@ This keylogger is developed for educational purposes only. Unauthorized use of k
   - [Design a Keylogger in Python - GeeksforGeeks](https://www.geeksforgeeks.org/design-a-keylogger-in-python/)
   - [Implementing a KeyLogger in Python - AskPython](https://www.askpython.com/python/examples/keylogger-in-python)
   - [Creating a Keylogger in Python - ByteScrum](https://blog.bytescrum.com/creating-a-keylogger-in-python)
-```
+
