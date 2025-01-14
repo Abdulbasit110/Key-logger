@@ -2,6 +2,10 @@
 
 This project is a simple keylogger implemented in Python. It captures user keystrokes and stores them in an encrypted log file. The logging process can be terminated by pressing the `Esc` key.
 
+##FLOW
+
+![image](https://github.com/user-attachments/assets/e48945c5-6605-44dd-baaf-6275e7df7fd7)
+
 ## Features
 
 - **Keystroke Logging:** Records all keystrokes made by the user.
